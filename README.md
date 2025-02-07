@@ -56,4 +56,17 @@
 
 3. Attach the layer to your Lambda function.
 # Step 6: Write the AWS Lambda Function Code (Lambda Code: Read Excel from S3 & Convert to JSON)
+# Step 7: Monitor & Debugging
+1. Use Amazon CloudWatch Logs to debug errors: Go to AWS Lambda → Monitor → View logs in CloudWatch.
+
+2. Modify permissions if needed in the IAM Role.
+# CONCLUSION:
+Successfully read Excel from Amazon S3 using AWS Lambda.
+
+✅ Converted Excel data into JSON format.
+
+✅ Automated the process using S3 event triggers.
+
+
+This solution is efficient for real-time data processing in serverless environments!
 
